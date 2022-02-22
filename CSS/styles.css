@@ -27,3 +27,7 @@ textarea{
     border-style: none;
     color: white;
 }
+
+.edit:hover {
+    background-color: #ECC488;
+  }
